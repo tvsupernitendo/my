@@ -5,7 +5,7 @@ https://livefocamundo.com:8081/8148/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c7c9d0ae43a712d684f15791e62e4f42.png" group-title="BRASIL",CEAK TV
 https://stmv3.srvstm.com/ceak/ceak/playlist.m3u8?wowzasessionid=1024483181
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ae36bf348d8b7c869d333e732413fd88.png" group-title="BRASIL",TCM 10 Mossoro
-http://live.tcm10.com.br/tcm10.m3u8
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",MTV CLIPES 1
 http://rtmp.one.by:1200
@@ -95,8 +95,6 @@ http://streaming15.hstbr.net:8224/live
 http://centova6.ciclanohost.com.br:9518/;stream.nsv
 #EXTINF:-1 group-title="RÁDIOS", ARAPUAN - PATOS
 http://centova6.ciclanohost.com.br:9312/;stream.nsv
-#EXTINF:-1 group-title="RÁDIOS", ESPINHARAS AM - PATOS
-http://stm45.srvstm.com:26924/stream/1/
 #EXTINF:-1 group-title="RÁDIOS", BOSSA NOVA
 http://6d9a.webradio.upx.net.br:9974/stream
 #EXTINF:-1 group-title="RÁDIOS",RADIO ATLANTIDA FM
