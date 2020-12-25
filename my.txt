@@ -1,0 +1,119 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="BRASIL",TV ARACATI
+https://livefocamundo.com:8081/8148/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c7c9d0ae43a712d684f15791e62e4f42.png" group-title="BRASIL",CEAK TV
+https://stmv3.srvstm.com/ceak/ceak/playlist.m3u8?wowzasessionid=1024483181
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ae36bf348d8b7c869d333e732413fd88.png" group-title="BRASIL",TCM 10 Mossoro
+http://live.tcm10.com.br/tcm10.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",MTV CLIPES 1
+http://rtmp.one.by:1200
+#EXTINF:-1 group-title="VARIEDADES",FOX HITS
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",CNN BRASIL
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+#EXTINF:-1 group-title="NOTICIAS",CBN Sao Paulo
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="BRASIL",SBT⁻⁷²⁰⁻ Pernambuco
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2099085578_b216000_sleng.m3u8?GrupoTopIptv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="BRASIL",SBT⁻ˢᵈ⁻
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w965605121_b131000_sleng.m3u8?GrupoTopIptv
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/11/tv-jornal.png" group-title="BRASIL",SBT⁻ˢᵈ⁻ TV Jornal PE
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8?GrupoTopIptv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="BRASIL",SBT⁻⁷²⁰⁻ PE
+http://evpp.mm.uol.com.br/ne10/ne10_720.sdp/chunklist_w322427533.m3u8?GrupoTopIptv
+
+#EXTINF:-1 group-title="DESENHO",Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1593275602.m3u8
+
+---
+
+
+
+---
+
+#EXTINF:-1 group-title="ADULTOS", Compilations 
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="ADULTOS", Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="ADULTOS", Hardcore Sex
+http://live.redtraffic.xyz/hardcore.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="ADULTOS", SexSlut
+http://live.redtraffic.xyz/cuckold.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="ADULTOS", Gay
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 group-title="ADULTOS", Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="ADULTOS", Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 group-title="ADULTOS", Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 group-title="ADULTOS", Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 group-title="ADULTOS", Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 group-title="ADULTOS", Bigdick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="ADULTOS", Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="ADULTOS", Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 group-title="ADULTOS", Russian
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 group-title="ADULTOS", Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="ADULTOS", Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 group-title="ADULTOS", Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="ADULTOS", AST TV XXX 1
+https://www.ast.tv/stream/1/cellular.m3u8
+#EXTINF:-1 group-title="ADULTOS", Jasmin HD
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="RÁDIOS",RADIO 101 FM - CAMPINA GRANDE
+http://radioapp.agenciaellis.com.br/Cariri1160
+#EXTINF:-1 group-title="RÁDIOS",ARAPUAN - JOÃO PESSOA
+http://centova6.ciclanohost.com.br:9104/;stream.nsv
+#EXTINF:-1 group-title="RÁDIOS",CABO BRANCO FM - JOÃO PESSOA
+http://audio.cabobranco.tv.br:8000/cbfm
+#EXTINF:-1 group-title="RÁDIOS", CPAD - JOÃO PESSOA
+http://server3.webradios.com.br:9404/;
+#EXTINF:-1 group-title="RÁDIOS", LIDER 97 FM - SOUSA
+http://wz3.dnip.com.br/lider97/lider97.stream/playlist.m3u8
+#EXTINF:-1 group-title="RÁDIOS", LIBERDADE FM - POMBAL
+http://centova14.ciclanohost.com.br:8180/;
+#EXTINF:-1 group-title="RÁDIOS", ESTAcao JC - POMBAL
+http://streaming15.hstbr.net:8224/live
+#EXTINF:-1 group-title="RÁDIOS", ARAPUAN - CAMPINA GRANDE
+http://centova6.ciclanohost.com.br:9518/;stream.nsv
+#EXTINF:-1 group-title="RÁDIOS", ARAPUAN - PATOS
+http://centova6.ciclanohost.com.br:9312/;stream.nsv
+#EXTINF:-1 group-title="RÁDIOS", ESPINHARAS AM - PATOS
+http://stm45.srvstm.com:26924/stream/1/
+#EXTINF:-1 group-title="RÁDIOS", BOSSA NOVA
+http://6d9a.webradio.upx.net.br:9974/stream
+#EXTINF:-1 group-title="RÁDIOS",RADIO ATLANTIDA FM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#EXTINF:-1 group-title="RÁDIOS",RADIO ELDORADO FM
+http://noasrv.caster.fm:10136/stream
+#EXTINF:-1 group-title="RÁDIOS",CIRCUITO MIX
+http://173.236.30.162:8215//;stream.mp3
+#EXTINF:-1 group-title="RÁDIOS",Web Radio Alternativa Mix
+https://www.radios.com.br/old_php/players/load/silence.mp3
+#EXTINF:-1 group-title="RÁDIOS",Radio LGBT PLANET
+https://node-21.zeno.fm/bc7m6d2t5tzuv?rj-ttl=5&rj-tok=AAABdC4tnskAors3Lyo0xwIkrg
+#EXTINF:-1 group-title="RÁDIOS",Radio Energia 97 - 97.7 FM
+https://audio.97fm.com.br/energia
+#EXTINF:-1 group-title="RÁDIOS",Jovem Pan VItoria
+http://tvvitoria.viacast.tv:8080/jpvixmpeg.mp3/;stream.mp3
+#EXTINF:-1 group-title="RÁDIOS",CBN VItoria
+https://170045b.ha.azioncdn.net/0045b/_definst_/cbdv.sdp/chunklist_270a29e1-5d78-4f50-96ff-5a6590f1a733.m3u8
+#EXTINF:-1 group-title="RÁDIOS",Legal FM Vitoria
+http://cast.midiaip.com.br:6590/stream/;stream.mp3
