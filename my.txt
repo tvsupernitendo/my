@@ -31,7 +31,8 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1593275602.m3u8
 
 ---
 
-
+#EXTINF:-1 group-title="BRASIL", REDETV!
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
 
 ---
 
