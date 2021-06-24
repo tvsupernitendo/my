@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="BRASIL",TV ARACATI
-https://livefocamundo.com:8081/8148/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c7c9d0ae43a712d684f15791e62e4f42.png" group-title="BRASIL",CEAK TV
-https://stmv3.srvstm.com/ceak/ceak/playlist.m3u8?wowzasessionid=1024483181
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ae36bf348d8b7c869d333e732413fd88.png" group-title="BRASIL",TCM 10 Mossoro
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 
@@ -33,6 +29,11 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1593275602.m3u8
 
 #EXTINF:-1 group-title="BRASIL", REDETV!
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
+
+---- Teste ----
+
+#EXTINF:-1 group-title="BRASIL",GLOBO RJ
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
 ---
 
