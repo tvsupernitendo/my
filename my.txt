@@ -8,8 +8,7 @@ http://rtmp.one.by:1200
 #EXTINF:-1 group-title="VARIEDADES",FOX HITS
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS",CNN BRASIL
-https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+
 #EXTINF:-1 group-title="NOTICIAS",CBN Sao Paulo
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
